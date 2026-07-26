@@ -15,7 +15,7 @@ This is the **public asset library** for our Apify Actors. Store banners, screen
 Images are served via GitHub raw URLs — no hosting setup required.
 
 ```markdown
-![Google Flights API](https://raw.githubusercontent.com/johnisanerd/ApifyPublicData/main/assets/banners/google-flights.png)
+![Your Actor banner](https://raw.githubusercontent.com/johnisanerd/ApifyPublicData/main/assets/banners/YOUR_BANNER.png)
 ```
 
 ---
@@ -78,7 +78,7 @@ Built for developers who need data that actually lands in a pipeline, not a demo
 3. Reference it in your Actor README with a raw GitHub URL:
 
 ```markdown
-![Setup guide](https://raw.githubusercontent.com/johnisanerd/ApifyPublicData/main/assets/guides/my-actor/step-1.png)
+![Setup guide](https://raw.githubusercontent.com/johnisanerd/ApifyPublicData/main/assets/guides/YOUR_ACTOR/step-1.png)
 ```
 
 Tip: use `main` in the URL path so links stay stable after you tag releases.
